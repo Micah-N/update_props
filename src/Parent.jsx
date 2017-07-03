@@ -5,7 +5,7 @@ class Parent extends React.Component {
   constructor(props) {
     super(props);
 
-    this.state = { name: 'Frarthur' };
+    this.state = { name: 'Michelangelo' };
 
     this.changeName = this.changeName.bind(this);
   }

@@ -16,10 +16,10 @@ export class Child extends React.Component {
         <select
           id="great-names"
           onChange={this.handleChange}>
-
-          <option value="Frarthur">Frarthur</option>
-          <option value="Gromulus">Gromulus</option>
-          <option value="Thinkpiece">Thinkpiece</option>
+          <option value="Donatello">Donatello</option>
+          <option value="Leonardo">Leonardo</option>
+          <option value="Michelangelo">Michelangelo</option>
+          <option value="Raphael">Raphael</option>
         </select>
       </div>
     );
